@@ -1,0 +1,6 @@
+- [ ] Create an settings menu for the plugin 
+  (api_key, new/old, list, success response text, error response text, color, use custonm css)
+
+- [ ] Use that information to provide a shortcode where the form is added
+
+- [ ] Have the form submit reach a PHP file inside and change the form to the response
