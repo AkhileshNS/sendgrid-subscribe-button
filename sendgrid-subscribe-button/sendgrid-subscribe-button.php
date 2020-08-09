@@ -12,4 +12,6 @@ Author URI: https://github.com/AkhileshNS
 License: MIT
 Text Domain: 
 */
+
+include( plugin_dir_path( __FILE__ ) . 'includes/settings.php' );
 ?>
